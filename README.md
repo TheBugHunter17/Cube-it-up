@@ -17,3 +17,6 @@ The animation showcases a cubic figure constructed using nested `div` elements s
 1. Clone the repository:
    git clone https://github.com/your-username/animated-cubic-figure.git
 2. Move the cursor and see the magic .
+
+
+Hosted link : 
