@@ -19,4 +19,4 @@ The animation showcases a cubic figure constructed using nested `div` elements s
 2. Move the cursor and see the magic .
 
 
-Hosted link : 
+Hosted link : https://thebughunter17.github.io/Cube-it-up/
